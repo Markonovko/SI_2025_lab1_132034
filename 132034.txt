@@ -1,0 +1,19 @@
+13. git fetch origin
+14. git checkout 1-remove-a-task-by-name
+15. git add SI2025Lab1Main.java 
+16. git commit -m "removeTasksByName"
+17. git push origin
+18. Se pravi pull request na github remote
+Potoa se povtoruva i za ostanatite 2 brancha od 14-18
+19.1. Pull request successfully merged and closed
+You're all set — the 1-remove-a-task-by-name branch can be safely deleted.
+19.2. Pull request successfully merged and closed
+You're all set — the 3-list-tasks-sorted-by-name branch can be safely deleted.
+396  git pull origin master
+397  git checkout master
+398  git merge 8-mark-a-task-as-completed-by-name
+399  git push -u origin master 
+Pull request successfully merged and closed
+You're all set — the 8-mark-a-task-as-completed-by-name branch can be safely deleted.
+
+git log --oneline --graph --all > logs.txt

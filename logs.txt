@@ -1,0 +1,15 @@
+*   c030c95 Merge branch '8-mark-a-task-as-completed-by-name'
+|\  
+| * 6df38a3 markATaskAsCompletedByName
+* |   ef79da3 Merge pull request #10 from Markonovko/1-remove-a-task-by-name
+|\ \  
+| * | c28c381 removeTasksByName
+| |/  
+* |   22054d3 Merge pull request #11 from Markonovko/3-list-tasks-sorted-by-name
+|\ \  
+| |/  
+|/|   
+| * c2bda91 listTasksSortedByName
+|/  
+* c05b742 Add starter code
+* 9b86406 Initial commit
